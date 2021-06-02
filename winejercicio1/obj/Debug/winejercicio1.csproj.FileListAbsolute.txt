@@ -1,0 +1,10 @@
+C:\Users\sady2\source\repos\winejercicio1\winejercicio1\bin\Debug\winejercicio1.exe.config
+C:\Users\sady2\source\repos\winejercicio1\winejercicio1\bin\Debug\winejercicio1.exe
+C:\Users\sady2\source\repos\winejercicio1\winejercicio1\bin\Debug\winejercicio1.pdb
+C:\Users\sady2\source\repos\winejercicio1\winejercicio1\obj\Debug\winejercicio1.csprojAssemblyReference.cache
+C:\Users\sady2\source\repos\winejercicio1\winejercicio1\obj\Debug\winejercicio1.Form1.resources
+C:\Users\sady2\source\repos\winejercicio1\winejercicio1\obj\Debug\winejercicio1.Properties.Resources.resources
+C:\Users\sady2\source\repos\winejercicio1\winejercicio1\obj\Debug\winejercicio1.csproj.GenerateResource.cache
+C:\Users\sady2\source\repos\winejercicio1\winejercicio1\obj\Debug\winejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\sady2\source\repos\winejercicio1\winejercicio1\obj\Debug\winejercicio1.exe
+C:\Users\sady2\source\repos\winejercicio1\winejercicio1\obj\Debug\winejercicio1.pdb
